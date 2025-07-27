@@ -1,0 +1,33 @@
+{
+  "short_name": "Ramdeo Portfolio",
+  "name": "Ramdeo Yadav - Software Engineer Portfolio",
+  "description": "Professional portfolio showcasing software engineering expertise in Python, Django, React.js and full-stack development",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#000000",
+  "orientation": "portrait-primary",
+  "categories": ["portfolio", "developer", "software engineer"],
+  "lang": "en-US",
+  "scope": "/",
+  "prefer_related_applications": false
+}
